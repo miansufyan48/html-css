@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(220, 246, 250);
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: rgb(82, 1, 32);
+  }
+
+.one{
+  background-color: yellow;
+}
